@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Onur Şahin
+- 👀 I’m interested in Erp applications
+- 🌱 I’m currently learning Java.
